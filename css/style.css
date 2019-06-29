@@ -167,6 +167,11 @@ body
     
 }
 /**Form***/
+form
+{
+    margin-top: 60px;
+    margin-bottom:60px
+}
 .input
 {
     width:100%;
